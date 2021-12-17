@@ -115,4 +115,7 @@ button:hover{
     .card{
         margin-top: 60px;
     }
+    .card:hover{
+        transform: scale(1);
+    }
 }
